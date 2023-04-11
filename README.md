@@ -71,3 +71,22 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+### Step for the config the project:
+
+Update env file variable
+ ```
+ OPENAI_API_KEY=*******
+ ORGANIZATION_ID=*******
+ ```
+
+Install all the dependency
+``` 
+npm install
+```
+
+Run the server
+```
+npm start
+```
